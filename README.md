@@ -1,5 +1,5 @@
 ## Code Tip CE
-** chat in you company and crate tasks !
+### chat in you company and crate tasks !
 
 This is Open source chat backend , implemented in spring java socket , for company  initial communications and crateing task , for ui use codeTip ui.
 
