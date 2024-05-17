@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "createTime": 1570719760243,
+    "description": "dex",
+    "firstMessageId": 1,
+    "name": "room01",
+    "user": {
+      "id": 1,
+      "name": "بهمن علیزاده",
+      "username": "araazz",
+      "avatar": "/dl/image/user-profiles/01.jpg"
+    },
+    "type": 2,
+    "image": "none",
+    "userCanLeave": true,
+    "lastMessage": {
+      "id": null,
+      "body": "message ",
+      "caption": null,
+      "deleted": false,
+      "type": null,
+      "replyTo": null,
+      "roomId": null,
+      "room": null,
+      "timestamp": 1570719760286,
+      "user": {
+        "id": null,
+        "name": "حسن",
+        "username": null,
+        "avatar": null
+      },
+      "visitCount": null
+    },
+    "mute": false,
+    "unreadMessageCount": 9,
+    "lastSeenId": 0
+  },
+  {
+    "id": 2,
+    "createTime": 1570719760243,
+    "description": "dex",
+    "firstMessageId": 5,
+    "name": "room02",
+    "user": {
+      "id": 1,
+      "name": "بهمن علیزاده",
+      "username": "araazz",
+      "avatar": "/dl/image/user-profiles/01.jpg"
+    },
+    "type": 2,
+    "image": "none",
+    "userCanLeave": true,
+    "lastMessage": {
+      "id": null,
+      "body": "message ",
+      "caption": null,
+      "deleted": false,
+      "type": null,
+      "replyTo": null,
+      "roomId": null,
+      "room": null,
+      "timestamp": 1570719760300,
+      "user": {
+        "id": null,
+        "name": "حسن",
+        "username": null,
+        "avatar": null
+      },
+      "visitCount": null
+    },
+    "mute": false,
+    "unreadMessageCount": 3,
+    "lastSeenId": 2
+  },
+  {
+    "id": 3,
+    "createTime": 1570719760243,
+    "description": "deccraption",
+    "firstMessageId": 5,
+    "name": "room03",
+    "user": {
+      "id": 1,
+      "name": "بهمن علیزاده",
+      "username": "araazz",
+      "avatar": "/dl/image/user-profiles/01.jpg"
+    },
+    "type": 2,
+    "image": "none",
+    "userCanLeave": true,
+    "lastMessage": {
+      "id": null,
+      "body": null,
+      "caption": null,
+      "deleted": false,
+      "type": null,
+      "replyTo": null,
+      "roomId": null,
+      "room": null,
+      "timestamp": null,
+      "user": {
+        "id": null,
+        "name": null,
+        "username": null,
+        "avatar": null
+      },
+      "visitCount": null
+    },
+    "mute": false,
+    "unreadMessageCount": 0,
+    "lastSeenId": 0
+  }
+]
